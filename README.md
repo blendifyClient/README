@@ -13,9 +13,7 @@ Contact me via discord: `Im SkiDoo Feeling#3806`
 
 
 You can visit my website at: <br />
-https://cupzyy.tk/
-
-![](Blendify.net) (In construction)
+https://blendify.net/ (in construction)
 
 
 thanks Cupzyy lmao (yoinked his README)<br />
