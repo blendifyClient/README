@@ -8,8 +8,6 @@ I'm a self taught Java developer from Canada.<br />I like making minecraft mods.
 [Rectum-Client](https://github.com/blendifyClient/Rectum-Client)<br />
 - 🌱 I’m currently learning: <br />
 More Java and Modding
-- 📫 How to reach me: <br />
-Contact me via discord: `Im SkiDoo Feeling#3806`
 
 
 You can visit my website at: <br />
@@ -17,3 +15,11 @@ https://blendify.net/ (in construction)
 
 
 thanks Cupzyy lmao (yoinked his README)<br />
+
+### Contact info
+
+<p align="left">
+
+<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/> Discord: `Im SkiDoo Feeling#3806`
+
+</p>
