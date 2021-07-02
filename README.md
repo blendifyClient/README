@@ -5,7 +5,7 @@ I'm a self taught Java developer from Canada.<br />I like making minecraft mods.
 
 
 - 🔭 I’m currently working on: <br />
-[Rectum-Client](https://github.com/blendifyClient/Rectum-Client)<br />
+[Rectum-Client](https://github.com/blendifyClient/RectumClient)<br />
 - 🌱 I’m currently learning: <br />
 More Java and Modding
 
